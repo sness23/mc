@@ -1,16 +1,8 @@
-[03:36:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4566ms or 91 ticks behind
-[05:13:19] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] Player connected with username xoxxxy
-[05:13:19] [localSession-7-3/INFO]: [Geyser-Spigot] xoxxxy (logged in as: xoxxxy) has connected to the Java server
-[05:13:19] [Server thread/INFO]: [floodgate] Floodgate player logged in as .xoxxxy joined (UUID: 00000000-0000-0000-0009-01ffdd0feff1)
-[05:13:19] [Server thread/INFO]: .xoxxxy joined the game
-[05:13:19] [Server thread/INFO]: .xoxxxy[/100.69.134.53:0] logged in with entity id 96720 at ([world]-928.15656, 63.0, -909.99115)
-[05:14:29] [Server thread/INFO]: Set .xoxxxy's game mode to Survival Mode
-[05:16:12] [Server thread/INFO]: Set .xoxxxy's game mode to Creative Mode
-[05:16:31] [Server thread/INFO]: Villager Villager['Villager'/96764, uuid='12294fd1-e1bd-436d-8042-2da11b901c52', l='ServerLevel[world]', x=-899.30, y=61.05, z=-903.70, cpos=[-57, -57], tl=3818, v=true] died, message: 'Villager drowned'
-[05:17:02] [Server thread/INFO]: Villager Villager['Villager'/96738, uuid='2e03347a-173b-4e62-aeed-7b27da880aaf', l='ServerLevel[world]', x=-900.70, y=61.05, z=-903.62, cpos=[-57, -57], tl=4426, v=true] died, message: 'Villager drowned'
-[05:18:58] [Server thread/INFO]: Villager Villager['Villager'/96761, uuid='52828133-3bd9-4815-ad6e-8a82293ff479', l='ServerLevel[world]', x=-899.30, y=61.05, z=-903.70, cpos=[-57, -57], tl=6756, v=true] died, message: 'Villager drowned'
-[05:32:54] [Server thread/INFO]: Set .xoxxxy's game mode to Survival Mode
-[05:38:23] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] xoxxxy has disconnected from the Java server because of Bedrock client disconnected
-[05:38:23] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .xoxxxy disconnected
-[05:38:23] [Server thread/INFO]: .xoxxxy lost connection: Disconnected
-[05:38:23] [Server thread/INFO]: .xoxxxy left the game
+[01:47:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5210ms or 104 ticks behind
+[01:52:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4771ms or 95 ticks behind
+[01:57:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4780ms or 95 ticks behind
+[03:13:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5250ms or 105 ticks behind
+[10:23:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6180ms or 123 ticks behind
+[15:13:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2770ms or 55 ticks behind
+[16:08:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3634ms or 72 ticks behind
+[16:33:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3637ms or 72 ticks behind
